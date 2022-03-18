@@ -29,8 +29,8 @@
 ### 📫 Contact
 
 - Gmail :     ghernaoutmassi@gmail.com
-- Linkedin :  <a href="linkedin.com/in/massigy">@Massiles Ghernaout</a>
-- Malt.fr :   <a href="malt.fr/profile/massigy">@Massiles Ghernaout</a>
+- Linkedin :  <a href="https://www.linkedin.com/in/massigy">@Massiles Ghernaout</a>
+- Malt.fr :   <a href="https://www.malt.fr/profile/massigy">@Massiles Ghernaout</a>
 
 ---
 
