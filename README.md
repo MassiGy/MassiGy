@@ -12,9 +12,9 @@
 
 
 ---
-### BIO
+### 👋 BIO
 
-👋 Hi, I’m Massiles Ghernaout ( @MassiGy ), I am very glad that you are here, I' am a junior but very ambitious web developer, constantly learning to give you what you deserve... I am helping people to create anything from basic website to portfolios and even small web apps in order to make their business alive online and improve results.
+ Hi, I’m Massiles Ghernaout ( @MassiGy ), I am very glad that you are here, I' am a junior but very ambitious web developer, constantly learning to give you what you deserve... I am helping people to create anything from basic website to portfolios and even small web apps in order to make their business alive online and improve results.
 
 ---
 
