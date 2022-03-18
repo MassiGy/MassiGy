@@ -27,8 +27,17 @@
 
 ---
 ### 📫 Contact
+
 - Gmail :     ghernaoutmassi@gmail.com
 - Linkedin :  linkedin.com/in/massigy
 - Malt.fr :   malt.fr/profile/massigy
+
+---
+
+### 👀 Keep In Mind !
+
+- ~~Windows~~
+- ~~MacOs~~
+- Linux
 
 ---
