@@ -1,7 +1,7 @@
 
 
 
-![@MassiGy](https://user-images.githubusercontent.com/82173113/159090893-e1694ba6-2a8c-4d2f-85da-71d1e99038c0.png)
+![@Massi Gy](https://github.com/MassiGy/MassiGy/assets/82173113/3390c269-2137-4a84-b852-871ba27f9ba4)
 
 
 
@@ -18,7 +18,6 @@
 
 - Gmail :     ghernaoutmassi@gmail.com
 - Linkedin :  <a href="https://www.linkedin.com/in/massigy">@Massiles Ghernaout</a>
-- Malt.fr :   <a href="https://www.malt.fr/profile/massigy">@Massiles Ghernaout</a>
 
 ---
 
