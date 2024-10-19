@@ -47,15 +47,10 @@ Hi, I’m Massiles Ghernaout ( @MassiGy ), I am very glad that you are here, I' 
             <dt><a style="text-decoration: none;" href="https://github.com/codecrafters-io/build-your-own-x" >build your own x</a>
             <dt><a style="text-decoration: none;" href="https://www.cs.cmu.edu/~rdriley/487/papers/thompson_1984_reflectionsontrustingtrust.pdf" >reflections on trusting trust </a>
             <dt><a style="text-decoration: none;" href="https://caseymuratori.com/contents" >casey muratori&#39;s blogs</a>
-            <dt><a style="text-decoration: none;" href="https://docs.oracle.com/javase/tutorial/uiswing/learn/index.html" >javaswing</a>
-            <dt><a style="text-decoration: none;" href="https://postgres.cz/index.php/pl/pgsql_%28en%29" >postgresql</a>
-            <dt><a style="text-decoration: none;" href="https://www.postgresqltutorial.com/postgresql-plpgsql/" >plpgsql</a>
             <dt><a style="text-decoration: none;" href="https://refactoring.guru/" >design patterns</a>
             <dt><a style="text-decoration: none;" href="https://github.com/google/googletest" >testing c/c++</a>
             <dt><a style="text-decoration: none;" href="https://pythontutor.com/" >python tutor</a>
-            <dt><a style="text-decoration: none;" href="https://www.pythonmorsels.com/" >be better @python</a>
             <dt><a style="text-decoration: none;" href="https://learnyouahaskell.com/chapters" >learn haskell</a>
-            <dt><a style="text-decoration: none;" href="https://play.haskell.org/" >haskell playground</a>
             <dt><a style="text-decoration: none;" href="https://www.arp242.net/" >martin t. blogs</a>
             <dt><a style="text-decoration: none;" href="https://andrewkelley.me/" >andrew k. ( ziglang creator ) blogs.</a>
         </dl><p>
