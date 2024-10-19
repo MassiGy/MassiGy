@@ -38,6 +38,7 @@ Hi, I’m Massiles Ghernaout ( @MassiGy ), I am very glad that you are here, I' 
             <dt><a style="text-decoration: none;" href="https://doc.ubuntu-fr.org/" >ubuntu wiki fr</a>
             <dt><a style="text-decoration: none;" href="https://wiki.debian.org/" >debian wiki</a>
             <dt><a style="text-decoration: none;" href="https://man7.org/training/">linux systems programming</a>
+            <dt><a style="text-decoration: none;" href="https://alternativeto.net/" >AlternativeTo - Crowdsourced software recommendations</a>
         </dl><p>
     </td>
     <td style="vertical-align:top;">
